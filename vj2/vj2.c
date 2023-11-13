@@ -3,7 +3,7 @@ A. dinami?ki dodaje novi element na po?etak liste,
 B. ispisuje listu,
 C. dinami?ki dodaje novi element na kraj liste,
 D. pronalazi element u listi (po prezimenu),
-E. briše odre?eni element iz liste,
+E. briï¿½e odre?eni element iz liste,
 U zadatku se ne smiju koristiti globalne varijable. */
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
@@ -35,9 +35,9 @@ int main() {
 
     menu(&head);
 
-    return 0;
 }
 
+    return 0;
 int menu(Position head) {
 
     char choice = '\0';
